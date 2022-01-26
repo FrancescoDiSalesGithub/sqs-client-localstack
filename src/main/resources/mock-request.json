@@ -1,0 +1,9 @@
+{
+
+    "serviceEndpoint":"http://localhost:4566",
+    "region":"us-west-1",
+    "accessKey":"foobar",
+    "secretKey":"foobar"
+
+
+}
